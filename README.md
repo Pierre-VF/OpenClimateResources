@@ -12,6 +12,7 @@ For those looking into climate-oriented job boards, check out the following link
 - [ClimateBase](https://climatebase.org/)
 - [ClimateCareerPortal](https://www.climatecareerportal.com/)
 - [ClimateChangeJobs](https://climatechangejobs.com/)
+- [ClimateDraft](https://jobs.climatedraft.org/jobs)
 - [ClimateU](https://www.climateu.earth/jobs)
 - [ClimatePeople](https://www.climatepeople.com/)
 - [ClimateTechCareers](https://www.climatetechcareers.com/)
