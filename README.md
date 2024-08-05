@@ -85,5 +85,6 @@ Professional networks (paid services):
 - Global listings of resources: 
   - [Climate Change Data (Github)](https://github.com/KKulma/climate-change-data)
   - [Climate Data Guide](https://climatedataguide.ucar.edu/climate-data)
+  - [Open Sustainable Technology](https://github.com/protontypes/open-sustainable-technology): a listing of open-source technologies relating to energy and climate action
 
 
