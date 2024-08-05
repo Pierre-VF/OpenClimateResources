@@ -18,6 +18,7 @@ For those looking into climate-oriented job boards, check out the following link
 - [Acre](https://www.acre.com/)
 - [ClimateBase](https://climatebase.org/)
 - [ClimateCareerPortal](https://www.climatecareerportal.com/)
+- [Climate Change AI](https://community.climatechange.ai/): job-board dedicated to AI work for climate applications
 - [ClimateChangeJobs](https://climatechangejobs.com/)
 - [ClimateDraft](https://jobs.climatedraft.org/jobs)
 - [ClimateU](https://www.climateu.earth/jobs)
