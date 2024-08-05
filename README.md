@@ -4,6 +4,13 @@ This repository is aimed at sharing links to climate-related resources. Contribu
 
 Note: this page is meant to be an open list of resources, it does not imply that any of the target links is endorsed.
 
+#### Content
+
+- [Resources for job seekers](README.md#resources-for-job-seekers)
+- [Resources for entrepreneurs](README.md#resources-for-entrepreneurs-and-founders)
+- [Communities](README.md#communities)
+- [Datasets](README.md#datasets)
+
 
 ## Resources for job seekers
 
@@ -51,6 +58,10 @@ If you are a founder, here are some resources for you:
 - [Impact Hustlers](https://www.impacthustlers.com/)
 
 (more coming soon...)
+
+## Communities
+
+(coming soon...)
 
 ## Datasets
 
