@@ -2,7 +2,7 @@
 
 This repository is aimed at sharing links to climate-related resources. Contributions are welcome, so if you see anything missing, please free free to open a pull request (with a guide [here](https://github.com/firstcontributions/first-contributions/blob/main/README.md) if you've never done that before).
 
-Note: this page is meant to be an open list of resources, it does not imply that any of the target links is endorsed.
+Note: this page is meant to be an open list of resources including commercial services, it does not imply that any of the target links is endorsed and browsing the targetted links is made at your own risk.
 
 #### Content
 
@@ -54,14 +54,28 @@ For those looking into climate-oriented job boards, check out the following link
 ## Resources for entrepreneurs and founders
 
 If you are a founder, here are some resources for you:
+- [Climate Collective](https://climatecollective.org/)
 - [Climate Founder](https://climatefounder.org/)
+- [Crowd Solve](https://www.crowdsolve.eco/)
 - [Impact Hustlers](https://www.impacthustlers.com/)
+- [One Point Five](https://www.opf.degree/)
 
-(more coming soon...)
 
 ## Communities
 
-(coming soon...)
+Open communities:
+- [ClimateChange AI](https://www.climatechange.ai/): a community bringing together AI solutions for climate, network and related training
+
+Country-specific communities:
+  - France:
+    - [GaïaConnect](https://www.gaiaconnect.co/): mentoring for people engaging in career transition towards sustainability
+
+Professional networks (paid services):
+- [ClimateU](https://www.climateu.earth/community)
+- [Climate Vine](https://www.climatevine.co/)
+- [MCJ Collective](https://www.mcjcollective.com/)
+- [The Climate Guild](https://theclimateguild.com/)
+
 
 ## Datasets
 
