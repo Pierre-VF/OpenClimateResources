@@ -1,8 +1,8 @@
-# Welcome to Open Climate Resources - an open list of climate-related resources
+# Open Climate Resources - an open list of climate-related resources
 
 This repository is aimed at sharing links to climate-related resources. Contributions are welcome, so if you see anything missing, please free free to open a pull request (with a guide [here](https://github.com/firstcontributions/first-contributions/blob/main/README.md) if you've never done that before).
 
-Note: this page is meant to be an open list of resources including commercial services, it does not imply that any of the target links is endorsed and browsing the targetted links is made at your own risk.
+Note: this page is meant to be an open list of resources including commercial services, it does not imply that any of the target links is endorsed. Browsing the targetted links is therefore made at your own risk. If you encounter an issue with some of the resources, feel free to [open an issue](https://github.com/Pierre-VF/OpenClimateResources/issues). 
 
 #### Content
 
