@@ -80,4 +80,10 @@ Professional networks (paid services):
 
 ## Datasets
 
-(coming soon... - for now, check https://github.com/KKulma/climate-change-data )
+- [Copernicus Climate Datasets](https://climate.copernicus.eu/climate-datasets) 
+
+- Global listings of resources: 
+  - [Climate Change Data (Github)](https://github.com/KKulma/climate-change-data)
+  - [Climate Data Guide](https://climatedataguide.ucar.edu/climate-data)
+
+
