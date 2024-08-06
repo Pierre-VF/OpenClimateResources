@@ -66,6 +66,7 @@ If you are a founder, here are some resources for you:
 
 Open communities:
 - [ClimateChange AI](https://www.climatechange.ai/): a community bringing together AI solutions for climate, network and related training
+- [Climate Collective](https://climatecollective.org/) : a community of entrepreneurs, investors, non-profits and scientists leveraging digital technology for climate and nature action at scale
 
 Country-specific communities:
   - France:
