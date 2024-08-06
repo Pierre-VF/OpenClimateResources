@@ -9,7 +9,7 @@ Note: this page is meant to be an open list of resources including commercial se
 - [Resources for job seekers](README.md#resources-for-job-seekers)
 - [Resources for entrepreneurs](README.md#resources-for-entrepreneurs-and-founders)
 - [Communities](README.md#communities)
-- [Datasets](README.md#datasets)
+- [Datasets and code](README.md#datasets-and-code)
 
 
 ## Resources for job seekers
@@ -78,8 +78,9 @@ Professional networks (paid services):
 - [The Climate Guild](https://theclimateguild.com/)
 
 
-## Datasets
+## Datasets and code
 
+Datasets
 - [Copernicus Climate Datasets](https://climate.copernicus.eu/climate-datasets) 
 
 - Global listings of resources: 
@@ -87,4 +88,6 @@ Professional networks (paid services):
   - [Climate Data Guide](https://climatedataguide.ucar.edu/climate-data)
   - [Open Sustainable Technology](https://github.com/protontypes/open-sustainable-technology): a listing of open-source technologies relating to energy and climate action
 
+Code:
+- [Open Climate Fix](https://openclimatefix.org/): AI and machine learning tools for clean energy systems
 
