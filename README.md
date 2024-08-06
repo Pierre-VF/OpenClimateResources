@@ -89,5 +89,5 @@ Datasets
   - [Open Sustainable Technology](https://github.com/protontypes/open-sustainable-technology): a listing of open-source technologies relating to energy and climate action
 
 Code:
-- [Open Climate Fix](https://openclimatefix.org/): AI and machine learning tools for clean energy systems
+- [Open Climate Fix](https://openclimatefix.org/): AI and machine learning tools and datasets for clean power grids
 
