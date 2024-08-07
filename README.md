@@ -51,6 +51,11 @@ For those looking into climate-oriented job boards, check out the following link
     - [SustainableBusiness](https://www.sustainablebusiness.com/)
     - [SustainabilityLeads](https://sustainabilityleads.com/jobs)
 
+Services to support career transition:
+  - France:
+    - [Mon Job de Sens](https://monjobdesens.com/): support to career transition
+    - [GaïaConnect](https://www.gaiaconnect.co/): mentoring for people engaging in career transition towards sustainability
+
 
 ## Resources for entrepreneurs and founders
 
@@ -68,9 +73,6 @@ Open communities:
 - [ClimateChange AI](https://www.climatechange.ai/): a community bringing together AI solutions for climate, network and related training
 - [Climate Collective](https://climatecollective.org/) : a community of entrepreneurs, investors, non-profits and scientists leveraging digital technology for climate and nature action at scale
 
-Country-specific communities:
-  - France:
-    - [GaïaConnect](https://www.gaiaconnect.co/): mentoring for people engaging in career transition towards sustainability
 
 Professional networks (paid services):
 - [ClimateU](https://www.climateu.earth/community)
