@@ -29,11 +29,13 @@ For those looking into climate-oriented job boards, check out the following link
 - [GreenJobs](https://greenjobs.net/)
 - [Idealist](https://www.idealist.org/)
 - [Impact Hustlers](https://impacthustlers.pallet.com/jobs)
+- [Probably Good](https://jobs.probablygood.org/?cause=Climate+Change): an impact-oriented job board with a climate change section
 - [ShiftYourJob](https://shiftyourjob.org/)
 - [Sustainability Jobs](https://sustainability-jobs.org/)
 - [Terra.do](https://terra.do/)
 - [Trellis Jobs](https://jobs.trellis.net/)
 - [WorkOnClimate](https://workonclimate.org/)
+- [80,000 hours](https://jobs.80000hours.org/?refinementList%5Btags_area%5D%5B0%5D=Climate%20change): an impact-oriented job board with a climate change section
 
 - Country-specific boards:
   - France
