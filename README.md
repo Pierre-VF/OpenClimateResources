@@ -53,6 +53,10 @@ For those looking into climate-oriented job boards, check out the following link
     - [SustainableBusiness](https://www.sustainablebusiness.com/)
     - [SustainabilityLeads](https://sustainabilityleads.com/jobs)
 
+Dedicated job searching events:
+  - France
+    - [ChangeNow's Impact Job Fair](https://www.changenow.world/fr/impact-job-fair/)
+
 Services to support career transition:
   - France:
     - [Mon Job de Sens](https://monjobdesens.com/): support to career transition
@@ -81,6 +85,7 @@ Professional networks (paid services):
 - [ClimateU](https://www.climateu.earth/community)
 - [Climate Vine](https://www.climatevine.co/)
 - [MCJ Collective](https://www.mcjcollective.com/)
+- [Impact Circle (by ONZ)](https://theimpactcirclebyonz.com/)
 - [The Climate Guild](https://theclimateguild.com/)
 
 
