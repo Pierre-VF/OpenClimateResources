@@ -97,5 +97,5 @@ Datasets
 Code:
 - [LF Energy's landscape mapping](https://landscape.lfenergy.org/): a mapping of open-source tools for energy and climate applications
 - [Open Climate Fix](https://openclimatefix.org/): AI and machine learning tools and datasets for clean power grids
-- [Open Sustainable Technology](https://github.com/protontypes/open-sustainable-technology): mapping of open-source technology for sustainability applications
+- [Open Sustainable Technology](https://opensustain.tech/): mapping of open-source technology for sustainability applications
 
