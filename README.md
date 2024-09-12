@@ -95,5 +95,7 @@ Datasets
   - [Open Sustainable Technology](https://github.com/protontypes/open-sustainable-technology): a listing of open-source technologies relating to energy and climate action
 
 Code:
+- [LF Energy's landscape mapping](https://landscape.lfenergy.org/): a mapping of open-source tools for energy and climate applications
 - [Open Climate Fix](https://openclimatefix.org/): AI and machine learning tools and datasets for clean power grids
+- [Open Sustainable Technology](https://github.com/protontypes/open-sustainable-technology): mapping of open-source technology for sustainability applications
 
