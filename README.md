@@ -21,7 +21,6 @@ For those looking into climate-oriented job boards, check out the following link
 - [Climate Change AI](https://community.climatechange.ai/): job-board dedicated to AI work for climate applications
 - [ClimateChangeJobs](https://climatechangejobs.com/)
 - [ClimateDraft](https://jobs.climatedraft.org/jobs)
-- [ClimateU](https://www.climateu.earth/jobs)
 - [ClimatePeople](https://www.climatepeople.com/)
 - [ClimateTechCareers](https://www.climatetechcareers.com/)
 - [ClimateTechList](https://www.climatetechlist.com/)
@@ -29,6 +28,7 @@ For those looking into climate-oriented job boards, check out the following link
 - [GreenJobs](https://greenjobs.net/)
 - [Idealist](https://www.idealist.org/)
 - [Impact Hustlers](https://impacthustlers.pallet.com/jobs)
+- [InClimate](https://www.inclimate.com/jobs)
 - [Probably Good](https://jobs.probablygood.org/?cause=Climate+Change): an impact-oriented job board with a climate change section
 - [ShiftYourJob](https://shiftyourjob.org/)
 - [Sustainability Jobs](https://sustainability-jobs.org/)
