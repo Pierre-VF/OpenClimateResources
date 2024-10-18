@@ -26,13 +26,13 @@ For those looking into climate-oriented job boards, check out the following link
 - [ClimateTechList](https://www.climatetechlist.com/)
 - [EuroClimateJobs](https://www.euroclimatejobs.com/)
 - [GreenJobs](https://greenjobs.net/)
-- [Idealist](https://www.idealist.org/)
+- [Idealist](https://www.idealist.org/en)
 - [Impact Hustlers](https://impacthustlers.pallet.com/jobs)
 - [InClimate](https://www.inclimate.com/jobs)
 - [Probably Good](https://jobs.probablygood.org/?cause=Climate+Change): an impact-oriented job board with a climate change section
 - [ShiftYourJob](https://shiftyourjob.org/)
 - [Sustainability Jobs](https://sustainability-jobs.org/)
-- [Terra.do](https://terra.do/)
+- [Terra.do](http://www.terra.do/)
 - [Trellis Jobs](https://jobs.trellis.net/)
 - [WorkOnClimate](https://workonclimate.org/)
 - [80,000 hours](https://jobs.80000hours.org/?refinementList%5Btags_area%5D%5B0%5D=Climate%20change): an impact-oriented job board with a climate change section
@@ -82,10 +82,10 @@ Open communities:
 
 
 Professional networks (paid services):
-- [ClimateU](https://www.climateu.earth/community)
 - [Climate Vine](https://www.climatevine.co/)
-- [MCJ Collective](https://www.mcjcollective.com/)
+- [MCJ Collective](https://mcj.vc/)
 - [Impact Circle (by ONZ)](https://theimpactcirclebyonz.com/)
+- [InClimate](http://inclimate.com/community)
 - [The Climate Guild](https://theclimateguild.com/)
 
 
