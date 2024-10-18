@@ -1,0 +1,63 @@
+#
+# YAML file configuring the actions to take when releasing to production
+#
+# > Syntax tips here: https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions
+#
+name: Updating the data
+
+on: 
+  workflow_dispatch:
+    logLevel:
+      description: 'Log level'
+      required: true
+      default: 'warning'
+      type: choice
+      options:
+        - info
+        - warning
+        - debug
+  schedule:
+    - cron: '25 5 * * WED'
+
+jobs:
+  build-and-run-updating:
+    name: Discover new sources
+
+    runs-on: ubuntu-latest
+    permissions:
+      pull-requests: write
+      contents: write
+
+    concurrency:
+      group: ${{ github.workflow }}-updating
+      cancel-in-progress: true   
+
+    steps:
+      - name: "Checkout code"
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Installing Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Installing packages 
+        run: pip install -r maintenance/requirements.txt
+
+      - name: Running the script
+        run: python maintenance/screen_linked_resources.py
+                
+      - name: Defining Git identity 
+        run: | 
+          git config user.name github_actions
+          git config user.email github_actions@pierrevf.consulting
+      
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v7
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          branch: "index-update/${{ github.run_id }}"
+          base: "main"
+          title: "Updating index"
