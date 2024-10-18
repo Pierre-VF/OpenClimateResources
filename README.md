@@ -82,10 +82,10 @@ Open communities:
 
 
 Professional networks (paid services):
-- [ClimateU](http://inclimate.com/community)
 - [Climate Vine](https://www.climatevine.co/)
 - [MCJ Collective](https://mcj.vc/)
 - [Impact Circle (by ONZ)](https://theimpactcirclebyonz.com/)
+- [InClimate](http://inclimate.com/community)
 - [The Climate Guild](https://theclimateguild.com/)
 
 
