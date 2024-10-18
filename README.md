@@ -100,6 +100,7 @@ Datasets
   - [Open Sustainable Technology](https://github.com/protontypes/open-sustainable-technology): a listing of open-source technologies relating to energy and climate action
 
 Code:
+- [oss4energy](https://github.com/Pierre-VF/oss4energy): a listing of open-source for energy and climate (which includes all resources below)
 - [LF Energy's landscape mapping](https://landscape.lfenergy.org/): a mapping of open-source tools for energy and climate applications
 - [Open Climate Fix](https://openclimatefix.org/): AI and machine learning tools and datasets for clean power grids
 - [Open Sustainable Technology](https://opensustain.tech/): mapping of open-source technology for sustainability applications
