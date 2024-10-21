@@ -69,7 +69,7 @@ If you are a founder, here are some resources for you:
 - [Climate Collective](https://climatecollective.org/)
 - [Climate Founder](https://climatefounder.org/)
 - [Crowd Solve](https://www.crowdsolve.eco/)
-- [CXC Climate Action Resources](https://changemakerxchange.org/resources/)
+- [ChangeMakerXchange](https://changemakerxchange.org/) (and the rest of the [ChangeMakerXchange resources](https://changemakerxchange.org/resources/) )
 - [Impact Hustlers](https://www.impacthustlers.com/)
 - [One Point Five](https://www.opf.degree/)
 
@@ -77,7 +77,7 @@ If you are a founder, here are some resources for you:
 ## Communities
 
 Open communities:
-- [ChangeMakerXChange](https://changemakerxchange.org/joincommunity/)
+- [ChangeMakerXChange](https://changemakerxchange.org/joincommunity/) (with a [specific program for climate-oriented work](https://changemakerxchange.org/changemakers-for-the-planet/))
 - [ClimateAction.tech](https://climateaction.tech/community/): focused on climate action within the tech industry
 - [ClimateChange AI](https://www.climatechange.ai/): a community bringing together AI solutions for climate, network and related training
 - [Climate Collective](https://climatecollective.org/) : a community of entrepreneurs, investors, non-profits and scientists leveraging digital technology for climate and nature action at scale
@@ -91,9 +91,12 @@ Professional networks (paid services):
 - [The Climate Guild](https://theclimateguild.com/)
 
 
-## Datasets and code
+## Knowledge, datasets and code
 
-Datasets
+Knowledge:
+- [ClimaTalk](https://climatalk.org/) : youth-targeted resources to navigate climate policy
+
+Datasets:
 - [Copernicus Climate Datasets](https://climate.copernicus.eu/climate-datasets) 
 
 - Global listings of resources: 
