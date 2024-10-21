@@ -69,7 +69,7 @@ If you are a founder, here are some resources for you:
 - [Climate Collective](https://climatecollective.org/)
 - [Climate Founder](https://climatefounder.org/)
 - [Crowd Solve](https://www.crowdsolve.eco/)
-- [CXC Climate Action Resources](https://changemakerxchange.org/resources/)
+- [CXC Climate Action Resources](https://changemakerxchange.org/resources/) (and the rest of the [ChangeMakerXchange](https://changemakerxchange.org/resources/) resources)
 - [Impact Hustlers](https://www.impacthustlers.com/)
 - [One Point Five](https://www.opf.degree/)
 
