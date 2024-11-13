@@ -87,7 +87,7 @@ Professional networks (paid services):
 - [Climate Vine](https://www.climatevine.co/)
 - [MCJ Collective](https://mcj.vc/)
 - [Impact Circle (by ONZ)](https://theimpactcirclebyonz.com/)
-- [InClimate](https://www.inclimate.com/community)
+- [InClimate](DEAD_URL)
 - [The Climate Guild](https://theclimateguild.com/)
 
 
