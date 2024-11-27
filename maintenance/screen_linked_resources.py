@@ -8,8 +8,21 @@ import re
 
 import requests
 from tqdm import tqdm
+from urllib3.util import Retry
+from requests.adapters import HTTPAdapter
 
 SESSION = requests.Session()
+TIMEOUT_DEFAULT = 5
+
+_retries = Retry(
+    total=3,
+    backoff_factor=0.1,
+    status_forcelist=[502, 503, 504],
+    allowed_methods={"POST", "GET"},
+)
+
+SESSION = requests.Session()
+SESSION.mount("https://", HTTPAdapter(max_retries=_retries))
 NAVIGATOR_HEADERS = {
     "User-Agent": "Mozilla/5.0",
 }
@@ -58,7 +71,7 @@ redirected_urls = {}
 forbidden_urls = []
 
 for url_i in tqdm(external_links):
-    r = SESSION.get(url_i, allow_redirects=False, headers=NAVIGATOR_HEADERS)
+    r = SESSION.get(url_i, allow_redirects=False, headers=NAVIGATOR_HEADERS, timeout=TIMEOUT_DEFAULT)
     status_code = r.status_code
     if (status_code // 100) == 2:
         pass  # Nothing to declare
