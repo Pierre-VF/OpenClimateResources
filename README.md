@@ -81,7 +81,7 @@ Open communities:
 - [ClimateAction.tech](https://climateaction.tech/community/): focused on climate action within the tech industry
 - [ClimateChange AI](https://www.climatechange.ai/): a community bringing together AI solutions for climate, network and related training
 - [Climate Collective](https://climatecollective.org/) : a community of entrepreneurs, investors, non-profits and scientists leveraging digital technology for climate and nature action at scale
-
+- [The Resilience Project](https://theresilienceproject.org.uk/) : a youth-community supporting climate leaders with a focus on mental health
 
 Professional networks (paid services):
 - [Climate Vine](https://www.climatevine.co/)
