@@ -69,7 +69,7 @@ logging.info("Checking all links via web requests")
 invalid_urls = []
 redirected_urls = {}
 forbidden_urls = []
-timeout_urls = []
+error_urls = []
 
 for url_i in tqdm(external_links):
     try:
@@ -81,8 +81,10 @@ for url_i in tqdm(external_links):
         )
         status_code = r.status_code
     except requests.exceptions.ConnectionError:
-        status_code = 500
-    if (status_code // 100) == 2:
+        status_code = None
+    if status_code is None:
+        error_urls.append(url_i)
+    elif (status_code // 100) == 2:
         pass  # Nothing to declare
     elif status_code == 404:
         invalid_urls.append(url_i)
@@ -93,8 +95,6 @@ for url_i in tqdm(external_links):
         logging.warning(f"Redirecting {url_i} to {next_url}")
     elif status_code == 403:
         forbidden_urls.append(url_i)
-    elif status_code == 500:
-        timeout_urls.append(url_i)
     else:
         logging.warning(f"Error on {url_i} : status={status_code}")
 
@@ -105,8 +105,8 @@ for url_i in tqdm(external_links):
 logging.info("Replacing links")
 for i in invalid_urls:
     md_content = md_content.replace(i, "DEAD_URL")
-for i in timeout_urls:
-    md_content = md_content.replace(i, "TIMEOUT_URL")
+for i in error_urls:
+    md_content = md_content.replace(i, "ERROR_URL")
 for old_url, new_url in redirected_urls.items():
     md_content = md_content.replace(old_url, new_url)
 # and do nothing about the forbidden ones
