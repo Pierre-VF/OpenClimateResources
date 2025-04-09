@@ -44,13 +44,13 @@ For those looking into climate-oriented job boards, check out the following link
     - [Jobs that Make Sense](https://jobs.makesense.org/fr)
    
   - USA
-    - [Cyber Sierra](https://www.cyber-sierra.com/nrjobs/)
+    - [Cyber Sierra](ERROR_URL)
     - [EcoJobs](https://ecojobs.com/)
     - [EnvironmentalCareer](https://environmentalcareer.com/)
     - [GreenJobsBoard](https://www.greenjobsboard.us/)
     - [NonProfitCareer](https://www.nonprofitcareer.com/)
     - [NonprofitJobs](https://www.nonprofitjobs.org/)
-    - [SustainableBusiness](https://www.sustainablebusiness.com/)
+    - [SustainableBusiness](ERROR_URL)
     - [SustainabilityLeads](https://sustainabilityleads.com/jobs)
 
 Dedicated job searching events:
