@@ -15,9 +15,10 @@ SESSION = requests.Session()
 TIMEOUT_DEFAULT = 5
 
 _retries = Retry(
-    total=3,
-    backoff_factor=0.1,
-    status_forcelist=[502, 503, 504],
+    total=4,
+    backoff_factor=0.5,
+    backoff_max=60,
+    status_forcelist=[500, 502, 503, 504],
     allowed_methods={"POST", "GET"},
 )
 
