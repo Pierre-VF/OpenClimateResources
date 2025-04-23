@@ -55,7 +55,7 @@ For those looking into climate-oriented job boards, check out the following link
 
 Dedicated job searching events:
   - France
-    - [ChangeNow's Impact Job Fair](https://www.changenow.world/fr/impact-job-fair/)
+    - [ChangeNow's Impact Job Fair](ERROR_URL)
 
 Services to support career transition:
   - France:
