@@ -106,6 +106,6 @@ Datasets:
 Code:
 - [oss4climate](https://github.com/Pierre-VF/oss4climate): a listing of open-source for climate and energy (which includes all resources below)
 - [LF Energy's landscape mapping](https://landscape.lfenergy.org/): a mapping of open-source tools for energy and climate applications
-- [Open Climate Fix](https://openclimatefix.org/): AI and machine learning tools and datasets for clean power grids
+- [Open Climate Fix](https://www.openclimatefix.org/): AI and machine learning tools and datasets for clean power grids
 - [Open Sustainable Technology](https://opensustain.tech/): mapping of open-source technology for sustainability applications
 
