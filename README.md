@@ -94,6 +94,7 @@ Professional networks (paid services):
 
 Knowledge:
 - [ClimaTalk](https://climatalk.org/) : youth-targeted resources to navigate climate policy
+- [Climate Change Knowledge Portal (by the World Bank)](https://climateknowledgeportal.worldbank.org/)
 
 Datasets:
 - [Copernicus Climate Datasets](https://climate.copernicus.eu/climate-datasets) 
