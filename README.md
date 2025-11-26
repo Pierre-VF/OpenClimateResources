@@ -45,7 +45,7 @@ For those looking into climate-oriented job boards, check out the following link
    
   - USA
     - [Cyber Sierra](https://www.cyber-sierra.com/nrjobs/)
-    - [EcoJobs](https://ecojobs.com/)
+    - [EcoJobs](ERROR_URL)
     - [EnvironmentalCareer](https://environmentalcareer.com/)
     - [GreenJobsBoard](https://www.greenjobsboard.us/)
     - [NonProfitCareer](https://www.nonprofitcareer.com/)
