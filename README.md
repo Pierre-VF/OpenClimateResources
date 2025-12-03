@@ -48,7 +48,7 @@ For those looking into climate-oriented job boards, check out the following link
     - [EcoJobs](https://ecojobs.com/)
     - [EnvironmentalCareer](https://environmentalcareer.com/)
     - [GreenJobsBoard](https://www.greenjobsboard.us/)
-    - [NonProfitCareer](https://www.nonprofitcareer.com/)
+    - [NonProfitCareer](ERROR_URL)
     - [NonprofitJobs](https://www.nonprofitjobs.org/)
     - [SustainableBusiness](https://www.sustainablebusiness.com/)
     - [SustainabilityLeads](https://sustainabilityleads.com/jobs)
