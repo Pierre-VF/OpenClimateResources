@@ -39,7 +39,7 @@ For those looking into climate-oriented job boards, check out the following link
 
 - Country-specific boards:
   - France
-    - [Emploi Environnement](https://www.emploi-environnement.com/)
+    - [Emploi Environnement](ERROR_URL)
     - [JobImpact](https://jobimpact.fr/)
     - [Jobs that Make Sense](https://jobs.makesense.org/fr)
    
