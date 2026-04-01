@@ -34,7 +34,7 @@ For those looking into climate-oriented job boards, check out the following link
 - [Sustainability Jobs](https://sustainability-jobs.org/)
 - [Terra.do](https://www.terra.do/)
 - [Trellis Jobs](https://jobs.trellis.net/)
-- [WorkOnClimate](https://workonclimate.org/)
+- [WorkOnClimate](ERROR_URL)
 - [80,000 hours](https://jobs.80000hours.org/?refinementList%5Btags_area%5D%5B0%5D=Climate%20change): an impact-oriented job board with a climate change section
 
 - Country-specific boards:
@@ -77,7 +77,7 @@ If you are a founder, here are some resources for you:
 ## Communities
 
 Open communities:
-- [ChangeMakerXChange](https://changemakerxchange.org/joincommunity/) (with a [specific program for climate-oriented work](https://changemakerxchange.org/changemakers-for-the-planet/))
+- [ChangeMakerXChange](DEAD_URL) (with a [specific program for climate-oriented work](https://changemakerxchange.org/changemakers-for-the-planet/))
 - [ClimateAction.tech](https://climateaction.tech/community/): focused on climate action within the tech industry
 - [ClimateChange AI](https://www.climatechange.ai/): a community bringing together AI solutions for climate, network and related training
 - [Climate Collective](https://climatecollective.org/) : a community of entrepreneurs, investors, non-profits and scientists leveraging digital technology for climate and nature action at scale
