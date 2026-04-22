@@ -44,7 +44,7 @@ For those looking into climate-oriented job boards, check out the following link
     - [Jobs that Make Sense](https://jobs.makesense.org/fr)
    
   - USA
-    - [Cyber Sierra](https://www.cyber-sierra.com/nrjobs/)
+    - [Cyber Sierra](ERROR_URL)
     - [EcoJobs](https://ecojobs.com/)
     - [EnvironmentalCareer](https://environmentalcareer.com/)
     - [GreenJobsBoard](https://www.greenjobsboard.us/)
@@ -77,7 +77,7 @@ If you are a founder, here are some resources for you:
 ## Communities
 
 Open communities:
-- [ChangeMakerXChange](https://changemakerxchange.org/joincommunity/) (with a [specific program for climate-oriented work](https://changemakerxchange.org/changemakers-for-the-planet/))
+- [ChangeMakerXChange](DEAD_URL) (with a [specific program for climate-oriented work](https://changemakerxchange.org/changemakers-for-the-planet/))
 - [ClimateAction.tech](https://climateaction.tech/community/): focused on climate action within the tech industry
 - [ClimateChange AI](https://www.climatechange.ai/): a community bringing together AI solutions for climate, network and related training
 - [Climate Collective](https://climatecollective.org/) : a community of entrepreneurs, investors, non-profits and scientists leveraging digital technology for climate and nature action at scale
