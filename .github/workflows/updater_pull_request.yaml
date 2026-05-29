@@ -17,7 +17,7 @@ on:
         - warning
         - debug
   schedule:
-    - cron: '25 5 * * WED'
+    - cron: '25 5 5 * *'
 
 jobs:
   build-and-run-updating:
