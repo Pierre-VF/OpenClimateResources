@@ -41,7 +41,7 @@ jobs:
       - name: "Create UV installation"
         uses: astral-sh/setup-uv@08807647e7069bb48b6ef5acd8ec9567f424441b # v8.1.0
         with:
-          version: "0.11.17"
+          version: "0.11.28"
 
       - name: Running the script
         run: uv run maintenance/screen_linked_resources.py
