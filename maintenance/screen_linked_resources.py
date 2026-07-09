@@ -91,7 +91,7 @@ for url_i in tqdm(external_links):
 
     # Skip manual overrides
     for j in FORCED_UNCHANGED_HOSTS:
-        if j in external_links:
+        if j in url_i:
             continue # Skip maintenance on the above
     
     try:
