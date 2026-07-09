@@ -38,16 +38,13 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Installing Python
-        uses: actions/setup-python@v5
+      - name: "Create UV installation"
+        uses: astral-sh/setup-uv@08807647e7069bb48b6ef5acd8ec9567f424441b # v8.1.0
         with:
-          python-version: '3.12'
-
-      - name: Installing packages 
-        run: pip install -r maintenance/requirements.txt
+          version: "0.11.17"
 
       - name: Running the script
-        run: python maintenance/screen_linked_resources.py
+        run: uv run maintenance/screen_linked_resources.py
                 
       - name: Defining Git identity 
         run: | 
