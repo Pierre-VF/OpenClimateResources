@@ -1,3 +1,10 @@
+# /// script
+# dependencies = [
+#   "requests>=2.31.0",
+#   "tqdm>=4.67.1",
+#   "urllib3>=2.2.3",
+# ]
+# ///
 """
 This python script screens resources linked to, and ensures that they're still alive
 """
@@ -13,6 +20,13 @@ from urllib3.util import Retry
 
 SESSION = requests.Session()
 TIMEOUT_DEFAULT = 5
+
+FORCED_UNCHANGED_HOSTS [
+    # Recurring changes that shouldn't be affected can be added here:
+    "www.cyber-sierra.com",
+    "www.impacthustlers.com",
+]
+
 
 _retries = Retry(
     total=4,
@@ -73,6 +87,12 @@ forbidden_urls = []
 error_urls = []
 
 for url_i in tqdm(external_links):
+
+    # Skip manual overrides
+    for j in FORCED_UNCHANGED_HOSTS:
+        if j in external_links:
+            continue # Skip maintenance on the above
+    
     try:
         r = SESSION.get(
             url_i,
