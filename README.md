@@ -70,7 +70,7 @@ If you are a founder, here are some resources for you:
 - [Climate Founder](https://climatefounder.org/)
 - [Crowd Solve](https://www.crowdsolve.eco/)
 - [ChangeMakerXchange](https://changemakerxchange.org/) (and the rest of the [ChangeMakerXchange resources](https://changemakerxchange.org/resources/) )
-<!-- - [Impact Hustlers](https://www.impacthustlers.com/docs) -->
+<!-- - [Impact Hustlers](ERROR_URL) -->
 - [One Point Five](https://www.opf.degree/)
 
 
