@@ -22,7 +22,7 @@ from urllib3.util import Retry
 SESSION = requests.Session()
 TIMEOUT_DEFAULT = 5
 
-FORCED_UNCHANGED_HOSTS [
+FORCED_UNCHANGED_HOSTS = [
     # Recurring changes that shouldn't be affected can be added here:
     "www.cyber-sierra.com",
     "www.impacthustlers.com",
