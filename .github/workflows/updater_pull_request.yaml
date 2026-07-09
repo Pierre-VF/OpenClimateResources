@@ -46,13 +46,13 @@ jobs:
       - name: Running the script
         run: uv run maintenance/screen_linked_resources.py
                 
-      - name: Defining Git identity 
-        run: | 
+      - name: Defining Git identity
+        run: |
           git config user.name github_actions
-          git config user.email github_actions@pierrevf.consulting
-      
+          git config user.email github_actions@pierrevf.com
+
       - name: Create Pull Request
-        uses: peter-evans/create-pull-request@v7
+        uses: peter-evans/create-pull-request@5f6978faf089d4d20b00c7766989d076bb2fc7f1 # v8.1.1
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           branch: "index-update/${{ github.run_id }}"
