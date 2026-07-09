@@ -13,6 +13,7 @@ This python script screens resources linked to, and ensures that they're still a
 import logging
 import os
 import re
+from pathlib import Path
 
 import requests
 from requests.adapters import HTTPAdapter
@@ -23,7 +24,7 @@ SESSION = requests.Session()
 TIMEOUT_DEFAULT = 5
 
 FORCED_UNCHANGED_HOSTS = [
-    # Recurring changes that shouldn't be affected can be added here:
+    # Recurring changes that shouldn't be affected can be added here:
     "www.cyber-sierra.com",
     "www.impacthustlers.com",
 ]
@@ -48,11 +49,8 @@ markdown_file = "README.md"
 # ------------------------------------------------------------------------------------
 # Reads the file
 # ------------------------------------------------------------------------------------
-if os.path.exists(markdown_file):
-    file_io_path = markdown_file
-elif os.path.exists(f"../{markdown_file}"):
-    file_io_path = f"../{markdown_file}"
-else:
+file_io_path = Path(__file__).parent.parent / markdown_file
+if not os.path.exists(file_io_path):
     raise FileNotFoundError("Unable to find readme file")
 
 logging.info(f"Reading file: {file_io_path}")
@@ -88,12 +86,10 @@ forbidden_urls = []
 error_urls = []
 
 for url_i in tqdm(external_links):
+    # Skip manual overrides
+    if any([j in url_i for j in FORCED_UNCHANGED_HOSTS]):
+        continue  # Skip maintenance on the above
 
-    # Skip manual overrides
-    for j in FORCED_UNCHANGED_HOSTS:
-        if j in url_i:
-            continue # Skip maintenance on the above
-    
     try:
         r = SESSION.get(
             url_i,
