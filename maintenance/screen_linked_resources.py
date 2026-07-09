@@ -2,7 +2,7 @@
 # dependencies = [
 #   "requests>=2.31.0",
 #   "tqdm>=4.67.1",
-#   "urllib3>=2.2.3"",
+#   "urllib3>=2.2.3",
 # ]
 # ///
 
