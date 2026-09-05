@@ -15,7 +15,7 @@ Note: this page is meant to be an open list of resources including commercial se
 ## Resources for job seekers
 
 For those looking into climate-oriented job boards, check out the following links:
-- [Acre](https://www.acre.com/)
+- [Acre](https://www.acresearch.com/)
 - [ClimateBase](https://climatebase.org/)
 - [ClimateCareerPortal](https://www.climatecareerportal.com/)
 - [Climate Change AI](https://community.climatechange.ai/): job-board dedicated to AI work for climate applications
@@ -48,7 +48,7 @@ For those looking into climate-oriented job boards, check out the following link
     - [EcoJobs](https://ecojobs.com/)
     - [EnvironmentalCareer](https://environmentalcareer.com/)
     - [GreenJobsBoard](https://www.greenjobsboard.us/)
-    - [NonProfitCareer](https://www.nonprofitcareer.com/)
+    - [NonProfitCareer](https://nonprofitcareer.com/)
     <!-- - [NonprofitJobs](ERROR_URL) -->
     - [SustainableBusiness](https://www.sustainablebusiness.com/)
     - [SustainabilityLeads](https://sustainabilityleads.com/jobs)
