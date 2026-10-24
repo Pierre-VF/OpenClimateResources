@@ -102,6 +102,7 @@ Datasets:
   - [Climate Change Data (Github)](https://github.com/KKulma/climate-change-data)
   - [Climate Data Guide](https://climatedataguide.ucar.edu/climate-data)
   - [Open Sustainable Technology](https://github.com/protontypes/open-sustainable-technology): a listing of open-source technologies relating to energy and climate action
+  - [The PV Index](https://thepvindex.com/): a free directory of the global solar PV industry (manufacturers, developers, software, courses, careers)
 
 Code:
 - [oss4climate](https://github.com/Pierre-VF/oss4climate): a listing of open-source for climate and energy (which includes all resources below)
